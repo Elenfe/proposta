@@ -1,0 +1,26 @@
+body {
+    background-color: #171717;
+    padding: 16px;
+    
+    margin: 0 auto;
+}
+
+* {
+    color: #F8F8F8;
+    font-size: 18px;
+    font-family: courier, Arial, helvetica;
+}
+
+.container {
+    margin: 0 auto;
+    width: 70%;    
+}
+
+.certificado {
+    margin: 0 auto;
+    width: 353px;
+}
+
+img {
+    width: 100%;
+}
